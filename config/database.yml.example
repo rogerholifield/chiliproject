@@ -5,7 +5,7 @@ production:
   database: chiliproject
   host: localhost
   username: root
-  password:
+  password:P@ssword
   encoding: utf8
  
 development:
